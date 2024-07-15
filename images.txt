@@ -1,4 +1,1 @@
-ubuntu
-mysql
-nginx
-node
+mysql:8.4.1
